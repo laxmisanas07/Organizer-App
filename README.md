@@ -2,8 +2,6 @@
 
 This is a smart **Desktop Automation Tool** built using Python. It helps clean up messy directories (like the Downloads folder) by automatically sorting files into specific sub-folders based on their file extensions.
 
-![Organizer Thumbnail](organizer_thumbnail.png)
-
 ---
 
 ## 🚀 Features
@@ -41,5 +39,6 @@ This is a smart **Desktop Automation Tool** built using Python. It helps clean u
 
 🔗 Connect
 Feel free to fork this repository and submit pull requests!
+
 
 Made with ❤️ by Laxmi Sanas
